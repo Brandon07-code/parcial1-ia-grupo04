@@ -1,0 +1,13 @@
+zona,accidentes,heridos,gravedad,fecha
+Centro,5,3,Leve,2026-01-15
+Norte,8,6,Grave,2026-01-22
+Sur,3,1,Leve,2026-02-05
+Oriente,12,9,Grave,2026-02-18
+Occidente,6,4,Leve,2026-03-02
+Centro,4,2,Leve,2026-03-15
+Norte,7,5,Grave,2026-04-01
+Sur,2,0,Leve,2026-04-12
+Oriente,10,8,Grave,2026-05-03
+Occidente,5,3,Leve,2026-05-20
+Centro,,1,Leve,2026-06-01
+RESUMEN,62,42,,
